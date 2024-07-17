@@ -1,0 +1,20 @@
+{
+  "name": "api_livros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arthur972645/Apis_express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arthur972645/Apis_express/issues"
+  },
+  "homepage": "https://github.com/arthur972645/Apis_express#readme"
+}
